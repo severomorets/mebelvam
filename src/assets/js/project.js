@@ -1,3 +1,9 @@
-/**
- * Created by evgeniy on 21.01.18.
- */
+$(function () {
+    $("#slider").responsiveSlides({
+        auto: true,
+        nav: true,
+        speed: 500,
+        namespace: "callbacks",
+        pager: true,
+    });
+});
