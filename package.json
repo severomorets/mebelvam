@@ -5,6 +5,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve --host mebelvam18.ru --port 80",
+    "start2": "ng serve --host 192.168.102.231 --port 80",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
